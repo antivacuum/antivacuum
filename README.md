@@ -1,4 +1,9 @@
-### Hi there 👋
+### hello fellow gamers
+<t>i make mods for (usually) switch games, and occasionally work on other neat little projects<t>
+ <br>
+<t>pronouns are he/him lol<t>
+<br>
+<t>you can reach me on discord with the tag antiVacuum#9766<t>
 
 <!--
 **antivacuum/antivacuum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
