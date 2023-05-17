@@ -1,7 +1,6 @@
 ### hello fellow gamers
-<t>i make mods for (usually) switch games, and occasionally work on other neat little projects<t>
+<t>i make mods for nintendo games most of the time and sometimes i work on other things<t>
  <br>
-<t>pronouns are he/him lol<t>
 <br>
 <t>you can reach me on discord with the tag antiVacuum#9766<t>
 
