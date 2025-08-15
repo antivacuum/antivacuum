@@ -1,8 +1,5 @@
-### hello fellow gamers
-<t>i make mods for nintendo games most of the time and sometimes i work on other things<t>
- <br>
-<br>
-<t>you can reach me on discord with the tag antiVacuum#9766<t>
+### hi
+
 
 <!--
 **antivacuum/antivacuum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
